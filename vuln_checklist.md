@@ -20,8 +20,7 @@
 18	|Link Injection
 19	|Iframe Injection
 20	|Blind Cross Site Scripting Attack
-21	|"Admin Login Authentication Bypass Using
- Success Response"
+21	|"Admin Login Authentication Bypass Using Success Response"
 22	|"User Login Authentication Bypass Using Success Response"
 23	|Cross Site Request Forgery
 24	|Restricted Functionality Access in the Application
