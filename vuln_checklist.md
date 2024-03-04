@@ -22,8 +22,7 @@
 20	|Blind Cross Site Scripting Attack
 21	|"Admin Login Authentication Bypass Using
  Success Response"
-22	|"User Login Authentication Bypass Using Success
- Response"
+22	|"User Login Authentication Bypass Using Success Response"
 23	|Cross Site Request Forgery
 24	|Restricted Functionality Access in the Application
 25	|Credentials Sent in Plain Text (HTTPS not Implemented)
@@ -78,9 +77,7 @@
 74	|Missing Header Protection - Content- Security-Policy
 75	|Missing Header Protection - X- XSS-Protection
 76	|Missing Header Protection - X- Frame-Options
-77	|"Missing Header Protection - HTTP Strict Transport
- Security (HSTS)"
-78	|"Missing Header Protection - Public Key Pinning Extension for
- HTTP (HPKP)"
+77	|"Missing Header Protection - HTTP Strict Transport Security (HSTS)"
+78	|"Missing Header Protection - Public Key Pinning Extension for HTTP (HPKP)"
 79	|Missing Header Protection - Referrer-Policy
 80	|Missing Header Protection - X- Permitted- Cross-Domain- Policies
