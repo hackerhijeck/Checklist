@@ -3,7 +3,7 @@
 1	|Time Based Blind SQL Injection
 2	|Error Based SQL Injection
 3	|Boolean Based Blind SQL Injection
-4	|"Admin Login Authentication Bypass Using Credentials found via SQL Injection"
+4	|Admin Login Authentication Bypass Using Credentials found via SQL Injection
 5	|Local File Inclusion (LFI)
 6	|Remote Code Execution (RCE)
 7	|Malicious File Upload (Shell Execution)
@@ -30,7 +30,7 @@
 28	|Parameter Manipulation
 29	|Test CGI script exposes environment variables
 30	|Account Takeover through forget password
-31	|"Credentials Stored in Database are in Plain Text"
+31	|Credentials Stored in Database are in Plain Text
 32	|Improper File Content Validation in the Application
 33	|User Controllable Cookie Value (Cookie Manipulation)
 34	|Application discloses SQL Query
@@ -76,7 +76,7 @@
 74	|Missing Header Protection - Content- Security-Policy
 75	|Missing Header Protection - X- XSS-Protection
 76	|Missing Header Protection - X- Frame-Options
-77	|"Missing Header Protection - HTTP Strict Transport Security (HSTS)"
-78	|"Missing Header Protection - Public Key Pinning Extension for HTTP (HPKP)"
+77	|Missing Header Protection - HTTP Strict Transport Security (HSTS)
+78	|Missing Header Protection - Public Key Pinning Extension for HTTP (HPKP)
 79	|Missing Header Protection - Referrer-Policy
 80	|Missing Header Protection - X- Permitted- Cross-Domain- Policies
