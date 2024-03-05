@@ -80,3 +80,23 @@
 78	|Missing Header Protection - Public Key Pinning Extension for HTTP (HPKP)
 79	|Missing Header Protection - Referrer-Policy
 80	|Missing Header Protection - X- Permitted- Cross-Domain- Policies
+81	|SSL Not Implemented
+82	|Tomcat Version Disclosure
+83	|PUT and DELETE method enabled
+84	|Web Application Firewall Not Implemented
+85  | DOM Cross Site Scripting
+86  | Default password using
+87	|PHPmyadmin Directly accessible
+88	|Python Version disclosure in tha application
+89	|Cleartext Submission of Password
+90	|Cross Site Tracing Attack
+91	|Cookie Hijacking
+92	|CRLF Injection
+93	|TLS protocol 1.0 and 1.1 enabled
+94	|Weak CBC Ciphers enabled
+95	|CORS
+96	|Session Token in URL
+97	|Session Does not expiry after password change
+98	|Account lockout policy not implemented
+99	|Default page enabled
+100	|Sensitive Information in Local Storage
